@@ -137,11 +137,11 @@ a:hover {
 
 /* Barra de Rolagem */
 ::-webkit-scrollbar-thumb {
-	background: #171E28;
+	background: #911515;
 }
 
 ::-webkit-scrollbar {
-	width: 0px;
+	width: 05px;
 	background: #E5E7EA;
 }
 
@@ -497,7 +497,7 @@ templateFree table .segundo {
 
 #comments h4, #comments .comment-author a, #comments .comment-timestamp a {
     color: #171e28;
-	font: normal normal 24px &#39;Montserrat&#39;, sans-serif;
+	font: normal normal 24px 'Montserrat', sans-serif;
 }
 
 .comment-header {
@@ -509,7 +509,7 @@ templateFree table .segundo {
 
 .comment-header a, .comment-header .user {
 	color: #fff !important;
-	font-family: &#39;Ubuntu&#39;, sans-serif;
+	font-family: 'Ubuntu', sans-serif;
 	font-weight: 400;
 }
 
@@ -654,14 +654,14 @@ a.simpleButton {
 	color: white !important;
 	background: #171e28;
 	padding: 5px;
-	font: normal normal 12px &#39;Ubuntu&#39;, sans-serif;
+	font: normal normal 12px 'Ubuntu', sans-serif;
 	text-transform: uppercase;
 }
 
 .footer-inner .widget h2, .sidebar .widget h2 {
 	text-align: left;
 	border-bottom: 1px solid #ddd;
-	font: normal normal 15px &#39;Montserrat&#39;, sans-serif;
+	font: normal normal 15px 'Montserrat', sans-serif;
 	margin: -10px -10px 10px -10px;
 	padding: 10px;
 	-moz-box-sizing: border-box;
@@ -670,7 +670,7 @@ a.simpleButton {
 }
 
 .footer-inner .widget, .sidebar .widget {
-    font: normal normal 13px &#39;Trebuchet MS&#39;,Trebuchet,sans-serif;
+    font: normal normal 13px 'Trebuchet MS',Trebuchet,sans-serif;
     color: #666666;
 }
 
@@ -712,7 +712,7 @@ dt3 {
     display: inline-block;
     text-align: center;
 	word-spacing: 10px;
-	font: normal bold 16px &#39;Montserrat&#39;, sans-serif;
+	font: normal bold 16px 'Montserrat', sans-serif;
 }
 
 dt1, dt4 {
@@ -754,7 +754,7 @@ dt4 {
 }
 
 .label-size span, .label-size a {
-	font: normal bold 13px &#39;Montserrat&#39;, sans-serif;
+	font: normal bold 13px 'Montserrat', sans-serif;
 	color: #171e28 !important;
 	padding: 7px;
 	margin: 5px;
@@ -779,7 +779,7 @@ dt4 {
 
 /* Footer */
 #rodape-creditos {
-font-family: &#39;Roboto Condensed&#39;, sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 font-weight:400;
 font-size:15px;  
 text-transform:normal;
@@ -816,7 +816,7 @@ background:#C0C0B8;
 }
 
 #copyright h1 {
-font-family: &#39;Roboto Condensed&#39;, sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 font-weight:300;
 padding:01% 0 01% 0;
 text-align:center;
@@ -944,7 +944,7 @@ transition: all .3s ease-in-out;
 background: linear-gradient(to bottom right, #A81C1B, #436590);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
-font: normal normal 35px &#39;Julius Sans One&#39;, sans-serif;
+font: normal normal 35px 'Julius Sans One', sans-serif;
 float: left;
 height: 95px;
 line-height: 95px;
@@ -991,7 +991,7 @@ transition: all .3s ease-in-out;
 }
 
 .navMenu.scrolled #headerLogo {
-font: normal normal 30px &#39;Julius Sans One&#39;, sans-serif !important;
+font: normal normal 30px 'Julius Sans One', sans-serif !important;
 height: 80px !important;
 line-height: 80px !important;
 -webkit-transition: all .3s ease-in-out;
@@ -1082,7 +1082,7 @@ box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.06);
     right: 10px;
     left: auto;
     text-transform: uppercase;
-    font-family: &#39;Fjalla One&#39;,sans-serif;
+    font-family: 'Fjalla One',sans-serif;
     font-weight: 300;
     font-style: normal;
     -webkit-transform: rotate(0deg);
@@ -1188,7 +1188,7 @@ box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.06);
 }
 
 .nav-link a {
-    font-family: &#39;Roboto Condensed&#39;, sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-weight: 300;
     letter-spacing: 0px;
     font-size: 50px;
@@ -1249,7 +1249,7 @@ font-size:30px;
 }
 
 .breadcrumbs {
-font-family: &#39;Roboto Condensed&#39;, sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 padding-top:70px;
 text-align:center;
 text-transform:normal;
@@ -1266,7 +1266,7 @@ font-weight:600;
 }
 
 .breadcrumbs m {
-font-family: &#39;Roboto Condensed&#39;, sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 color:#fff;
 font-size:10px;
 font-weight:bold;
@@ -1274,7 +1274,7 @@ padding:0 05px 0 05px;
 }
 
 .breadcrumbs h {
-font-family: &#39;Poppins&#39;, sans-serif;
+font-family: 'Poppins', sans-serif;
 text-align:center;
 text-transform:normal;
 font-size:45px;
@@ -1354,7 +1354,7 @@ padding:25px 0 0 0;
     height: 600px;
     float: left;
     padding: 150px 2.5em 0px 10.5em;
-    font-family: &#39;Calibri&#39;, sans-serif;
+    font-family: 'Calibri', sans-serif;
     color: #FFF;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -1439,7 +1439,7 @@ overflow:hidden;
 
 #owl-demo h1 {
 margin-top:15px;
-font-family: &#39;Roboto Condensed&#39;, sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 color:#fff;
 font-weight:400;
 text-align:center;
@@ -1448,7 +1448,7 @@ font-size:25px;
 
 #owl-demo p {
 margin-top:05px;
-font-family: &#39;Roboto Condensed&#39;, sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 color:#fff;
 font-weight:300;
 text-align:center;
@@ -1831,7 +1831,7 @@ background:#670707;
 }
 
 .instalation_name h1 {
-font-family: &#39;Roboto Condensed&#39;, sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 font-weight:400;
 font-size:30px;
 text-transform:uppercase;
@@ -1849,7 +1849,7 @@ background:#670707;
 }
 
 .equipe_name h1 {
-font-family: &#39;Roboto Condensed&#39;, sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
 font-weight:400;
 font-size:30px;
 text-transform:uppercase;
@@ -1874,7 +1874,7 @@ color:#fff;
   overflow: hidden;
   position: relative;
   color:#fff;
-  font-family: &#39;Poppins&#39;, sans-serif
+  font-family: 'Poppins', sans-serif
   font-weight:300;
   cursor: pointer; 
   cursor: hand;
@@ -1903,7 +1903,7 @@ color:#fff;
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 35px;
-  font-family: &#39;Poppins&#39;, sans-serif;
+  font-family: 'Poppins', sans-serif;
   font-weight:400;
 }
 
@@ -1923,7 +1923,7 @@ color:#fff;
 padding:20px;
 border:1px solid #fff;
 color:#fff;
-font-family: &#39;Poppins&#39;, sans-serif;
+font-family: 'Poppins', sans-serif;
 font-weight:300;
 text-transform:uppercase;
 font-size:30px;
@@ -2046,7 +2046,7 @@ display:inline-block;
 
 #sb-nav{float:right;height:16px;padding:2px 0;width:45%;}
 
-#sb-nav a{
+#sb-nav a {
 display:block;
 float:right;
 height:16px;
@@ -2112,7 +2112,7 @@ padding:25px 0 0 0;
     height: 600px;
     float: left;
     padding: 150px 10.5em 0 10.5em;
-    font-family: &#39;Calibri&#39;, sans-serif;
+    font-family: 'Calibri', sans-serif;
     color: #FFF;
     -moz-box-sizing: border-box;
     -webkit-box-sizing: border-box;
@@ -2142,7 +2142,7 @@ padding:25px 0 0 0;
 }
 
 .contactform_caixa h5 {
-        font-family: &#39;Roboto Condensed&#39;, sans-serif;
+        font-family: 'Roboto Condensed', sans-serif;
         font-weight:400;
         font-size: 45px;
         color:#A81C1B;
