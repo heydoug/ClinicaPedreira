@@ -13,7 +13,7 @@ list-style:none;
 @viewport 		  { width: device-width; }
 
 body {
-    font: normal normal 13px &#39;Ubuntu&#39;, sans-serif;
+    font: normal normal 13px'Ubuntu', sans-serif;
     color: #666666;
     background-image: ;
     background-color: #eff1f4;
@@ -147,12 +147,12 @@ a:hover {
 
 /* Headings */
 h2 {
-    font: normal bold 14px &#39;Trebuchet MS&#39;,Trebuchet,sans-serif;
+    font: normal bold 14px 'Trebuchet MS',Trebuchet,sans-serif;
     color: #000000;
 }
 
 .main-inner h2.date-header {
-    font: normal normal 14px &#39;Trebuchet MS&#39;,Trebuchet,sans-serif;
+    font: normal normal 14px 'Trebuchet MS',Trebuchet,sans-serif;
     color: #666666;
 }
 
@@ -189,7 +189,7 @@ h2 {
 
 /* Posts */
 h3.post-title {
-	font: normal normal 25px &#39;Montserrat&#39;, sans-serif;
+	font: normal normal 25px 'Montserrat', sans-serif;
 	color: #000000;
 }
 
