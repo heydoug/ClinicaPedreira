@@ -1881,7 +1881,7 @@ color:#fff;
 }
 
 .imageGrid .tile:before {
-  content: &#39;&#39;;
+  content: '';
   background-color: rgba(15,15,15,0.5);
   display: block;
   width: 100%;
