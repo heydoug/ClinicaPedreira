@@ -1057,13 +1057,14 @@ box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.06);
 		opacity: 0;
 	}
 
-	#nav-icon {
+	#nav-icon, #nav-icon-img {
 		margin: 24px 14px !important;
 	}
 	
-	#nav-icon.scrolled {
+	#nav-icon.scrolled, #nav-icon-img.scrolled {
 		margin: 16px 14px !important;
 	}
+	
     .navMenu #headerLogo img , .container { display:none;}
 }
 
@@ -1095,6 +1096,27 @@ box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.06);
     -o-transition: .5s ease-in-out;
     transition: .5s ease-in-out;
     cursor: pointer;
+}
+
+
+#nav-icon-img {
+position: fixed;
+z-index: 9999;
+top: 10px;
+left: 10px;
+left: auto;
+width:150px;
+height:auto;
+margin: 15px -150px;
+-webkit-transform: rotate(0deg);
+-moz-transform: rotate(0deg);
+-o-transform: rotate(0deg);
+transform: rotate(0deg);
+-webkit-transition: .5s ease-in-out;
+-moz-transition: .5s ease-in-out;
+-o-transition: .5s ease-in-out;
+transition: .5s ease-in-out;
+cursor: pointer;
 }
 
 #nav-icon {
