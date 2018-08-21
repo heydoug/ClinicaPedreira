@@ -88,19 +88,6 @@ padding:10px 20px 10px 20px;
 .imgform01_caixa img {
       display:none;
 }
-
-
-article p {
-font-family: 'Poppins', sans-serif;
-font-weight:400;
-line-height: 50px; 
-font-size:20px; 
-margin-top:50%;
-background-color: rgba(255,253,255,0.5);
-padding:15px;
-color:#9F3736;
-}
-
 }
 
 /* contato */
@@ -134,17 +121,6 @@ padding:10px 0px 10px 0px;
 
 .imgform01_caixa img {
       display:none;
-}
-
-article p {
-font-family: 'Poppins', sans-serif;
-font-weight:700;
-line-height: 50px; 
-font-size:25px; 
-margin-top:50%;
-background-color: rgba(255,253,255,0.5);
-padding:20px;
-color:#9F3736;
 }
 
 }
