@@ -1109,7 +1109,7 @@ left: 10px;
 left: auto;
 width:150px;
 height:auto;
-margin: 5px -150px;
+margin: -25px -150px;
 -webkit-transform: rotate(0deg);
 -moz-transform: rotate(0deg);
 -o-transform: rotate(0deg);
