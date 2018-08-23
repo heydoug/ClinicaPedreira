@@ -1104,12 +1104,12 @@ height: 90px;
 #nav-icon-img {
 position: fixed;
 z-index: 9999;
-top: 10px;
+top: 05px;
 left: 10px;
 left: auto;
 width:150px;
 height:auto;
-margin: -25px -150px;
+margin: -15px -150px;
 -webkit-transform: rotate(0deg);
 -moz-transform: rotate(0deg);
 -o-transform: rotate(0deg);
